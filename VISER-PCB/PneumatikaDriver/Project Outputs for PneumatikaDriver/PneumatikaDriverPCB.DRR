@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PneumatikaDriverPCB.PcbDoc   15-Sep-17  11:18:53 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PneumatikaDriverPCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             10        PTH        192.04mm (7.56inch)
+T2      0.8mm (31mil)                                             Round             70        PTH        386.23mm (15.21inch)
+T3      1mm (39mil)                                               Round             24        PTH        206.55mm (8.13inch)
+T4      1.1mm (43mil)                                             Round             4         PTH        15.24mm (0.60inch)
+T5      3mm (118mil)                                              Round             4         PTH        196.50mm (7.74inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              112
+
+Total Processing Time (hh:mm:ss) : 00:00:00

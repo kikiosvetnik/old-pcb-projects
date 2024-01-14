@@ -1,0 +1,25 @@
+Added Component: Designator=H1(Header 1x3)
+Added Component: Designator=H2(Header 1x3)
+Added Component: Designator=K1(Klema)
+Added Component: Designator=K2(Klema)
+Added Component: Designator=K3(Klema)
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=K2-2
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=K1-1
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=K2-1
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=NetH2_1 Pin=K3-2
+Added Net: Name=NetH2_1
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=NetH2_2 Pin=K1-2
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=K3-1
+Added Net: Name=NetH2_3
+Added Class: Name=FAKET_OMRON_EXTEND
+Added Room: Name=FAKET_OMRON_EXTEND

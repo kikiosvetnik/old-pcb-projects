@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Merne Celije.PrjPcb]
+   Generated File[CelijePCB.TXT]
+   Generated File[CelijePCB.LDP]
+   Generated File[CelijePCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:18:30 AM On 15-Sep-17

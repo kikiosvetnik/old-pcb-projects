@@ -1,0 +1,10 @@
+Added Component: Designator=KL1(Klema)
+Added Component: Designator=KL2(Klema)
+Added Pin To Net: NetName=GND Pin=KL1-1
+Added Pin To Net: NetName=+5V Pin=KL1-2
+Added Pin To Net: NetName=+24V Pin=KL2-2
+Added Pin To Net: NetName=GND2 Pin=KL2-1
+Added Net: Name=GND2
+Added Member To Class: ClassName=Sema Member=Component KL1 5V
+Added Member To Class: ClassName=Sema Member=Component KL2 24V
+Added Room: Name=Sema

@@ -1,0 +1,13 @@
+"Bill of Material for "
+"On 12-Sep-17 at 12:19:09 PM"
+
+"Comment","Pattern","Quantity","Components"
+
+"1k","R1(300milsa)","8","R1, R2, R3, R4, R5, R6, R7, R8",""
+"BC567","TO-92","6","T1, T2, T3, T4, T5, T6",""
+"Header1x2","Header1x2","7","H1, H2, H3, H4, H5, H6, H8",""
+"Header1x4","Header1x4","1","H9",""
+"Header1x6","Header1x6","1","H7",""
+"Klema","Klema","2","KL1, KL2",""
+"Rele","Rele(MD-5)","6","RL1, RL2, RL3, RL4, RL5, RL6",""
+"Rele2","Rele(thu 24-03)","2","RL7, RL8",""

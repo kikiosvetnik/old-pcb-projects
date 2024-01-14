@@ -1,0 +1,217 @@
+Added Component: Designator=D1(D1(300milsa))
+Added Component: Designator=D2(D1(300milsa))
+Added Component: Designator=H1(Header1x2)
+Added Component: Designator=H2(Header1x2)
+Added Component: Designator=H3(Header1x2)
+Added Component: Designator=H4(Header1x2)
+Added Component: Designator=H5(Header1x2)
+Added Component: Designator=H6(H1x1)
+Added Component: Designator=H7(H1x1)
+Added Component: Designator=H8(H1x1)
+Added Component: Designator=H9(H1x1)
+Added Component: Designator=IC1(DIP8)
+Added Component: Designator=IC2(DIP8)
+Added Component: Designator=K1(Klema)
+Added Component: Designator=K2(Klema)
+Added Component: Designator=K3(Klema)
+Added Component: Designator=K4(Klema)
+Added Component: Designator=K5(Klema)
+Added Component: Designator=OC1(DIP6)
+Added Component: Designator=OC2(DIP6)
+Added Component: Designator=Q1(TO-92)
+Added Component: Designator=Q2(TO-92)
+Added Component: Designator=Q3(N-Channel MOSFET)
+Added Component: Designator=Q4(TO-92)
+Added Component: Designator=Q5(TO-92)
+Added Component: Designator=Q6(N-Channel MOSFET)
+Added Component: Designator=R1(R1(300milsa))
+Added Component: Designator=R2(R1(300milsa))
+Added Component: Designator=R3(R1(300milsa))
+Added Component: Designator=R4(R1(300milsa))
+Added Component: Designator=R5(R1(300milsa))
+Added Component: Designator=R6(R1(300milsa))
+Added Component: Designator=R7(R1(300milsa))
+Added Component: Designator=R8(R1(300milsa))
+Added Component: Designator=R9(R1(300milsa))
+Added Component: Designator=R10(R1(300milsa))
+Added Component: Designator=R11(R1(300milsa))
+Added Component: Designator=R12(R1(300milsa))
+Added Component: Designator=R13(R1(300milsa))
+Added Component: Designator=R14(R1(300milsa))
+Added Component: Designator=R15(R1(300milsa))
+Added Component: Designator=R16(R1(300milsa))
+Added Component: Designator=R17(R1(300milsa))
+Added Component: Designator=R18(R1(300milsa))
+Added Component: Designator=R19(R1(300milsa))
+Added Component: Designator=R20(R1(300milsa))
+Added Component: Designator=R21(R1(300milsa))
+Added Component: Designator=R22(R1(300milsa))
+Added Component: Designator=R23(R1(200milsa))
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=NetH3_2 Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=NetH4_2 Pin=H4-2
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=NetH5_2 Pin=H5-2
+Added Pin To Net: NetName=NetH6_1 Pin=H6-1
+Added Pin To Net: NetName=NetH7_1 Pin=H7-1
+Added Pin To Net: NetName=NetH8_1 Pin=H8-1
+Added Pin To Net: NetName=NetH9_1 Pin=H9-1
+Added Pin To Net: NetName=NetH6_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetH5_2 Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=NetH4_2 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetH7_1 Pin=IC1-7
+Added Pin To Net: NetName=+5 Pin=IC1-8
+Added Pin To Net: NetName=NetH8_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetH3_2 Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=NetH2_2 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Pin To Net: NetName=NetH9_1 Pin=IC2-7
+Added Pin To Net: NetName=+5 Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=+5 Pin=K1-2
+Added Pin To Net: NetName=+12 Pin=K2-1
+Added Pin To Net: NetName=+12 Pin=K3-1
+Added Pin To Net: NetName=GND1 Pin=K3-2
+Added Pin To Net: NetName=+24 Pin=K4-1
+Added Pin To Net: NetName=+24 Pin=K5-1
+Added Pin To Net: NetName=GND2 Pin=K5-2
+Added Pin To Net: NetName=NetOC1_1 Pin=OC1-1
+Added Pin To Net: NetName=NetOC1_2 Pin=OC1-2
+Added Pin To Net: NetName=NetD1_1 Pin=OC1-4
+Added Pin To Net: NetName=+12 Pin=OC1-5
+Added Pin To Net: NetName=NetOC2_1 Pin=OC2-1
+Added Pin To Net: NetName=NetOC2_2 Pin=OC2-2
+Added Pin To Net: NetName=NetD2_1 Pin=OC2-4
+Added Pin To Net: NetName=+24 Pin=OC2-5
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetOC1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-2
+Added Pin To Net: NetName=GND1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetOC2_2 Pin=Q4-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q5-1
+Added Pin To Net: NetName=NetD2_2 Pin=Q5-2
+Added Pin To Net: NetName=GND2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=GND2 Pin=Q6-3
+Added Pin To Net: NetName=NetOC1_1 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=NetH1_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Pin To Net: NetName=GND1 Pin=R3-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Pin To Net: NetName=GND1 Pin=R4-1
+Added Pin To Net: NetName=NetD1_2 Pin=R4-2
+Added Pin To Net: NetName=NetD1_2 Pin=R5-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R5-2
+Added Pin To Net: NetName=NetOC2_1 Pin=R6-1
+Added Pin To Net: NetName=+5 Pin=R6-2
+Added Pin To Net: NetName=NetH1_2 Pin=R7-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R7-2
+Added Pin To Net: NetName=GND2 Pin=R8-1
+Added Pin To Net: NetName=NetD2_1 Pin=R8-2
+Added Pin To Net: NetName=GND2 Pin=R9-1
+Added Pin To Net: NetName=NetD2_2 Pin=R9-2
+Added Pin To Net: NetName=NetD2_2 Pin=R10-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R10-2
+Added Pin To Net: NetName=NetH2_2 Pin=R11-1
+Added Pin To Net: NetName=+5 Pin=R11-2
+Added Pin To Net: NetName=NetH3_2 Pin=R12-1
+Added Pin To Net: NetName=+5 Pin=R12-2
+Added Pin To Net: NetName=NetH4_2 Pin=R13-1
+Added Pin To Net: NetName=+5 Pin=R13-2
+Added Pin To Net: NetName=+5 Pin=R14-1
+Added Pin To Net: NetName=NetH5_2 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R15-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R16-1
+Added Pin To Net: NetName=NetH6_1 Pin=R16-2
+Added Pin To Net: NetName=NetH7_1 Pin=R17-1
+Added Pin To Net: NetName=NetIC1_6 Pin=R17-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetIC2_2 Pin=R19-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R20-1
+Added Pin To Net: NetName=NetH8_1 Pin=R20-2
+Added Pin To Net: NetName=NetH9_1 Pin=R21-1
+Added Pin To Net: NetName=NetIC2_6 Pin=R21-2
+Added Pin To Net: NetName=NetIC2_6 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=NetH2_2 Pin=R23-1
+Added Pin To Net: NetName=NetH3_2 Pin=R23-2
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=Q3-2
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=NetK4_2 Pin=K4-2
+Added Pin To Net: NetName=NetK4_2 Pin=Q6-2
+Added Net: Name=NetK4_2
+Added Member To Class: ClassName=Sema_Driver Member=Component D1 1n4148
+Added Member To Class: ClassName=Sema_Driver Member=Component D2 1n4148
+Added Member To Class: ClassName=Sema_Driver Member=Component H1 Header1x2
+Added Member To Class: ClassName=Sema_Driver Member=Component H2 PT100
+Added Member To Class: ClassName=Sema_Driver Member=Component H3 PTKK
+Added Member To Class: ClassName=Sema_Driver Member=Component H4 PT100
+Added Member To Class: ClassName=Sema_Driver Member=Component H5 NTC
+Added Member To Class: ClassName=Sema_Driver Member=Component H6 I1
+Added Member To Class: ClassName=Sema_Driver Member=Component H7 I2
+Added Member To Class: ClassName=Sema_Driver Member=Component H8 I3
+Added Member To Class: ClassName=Sema_Driver Member=Component H9 I4
+Added Member To Class: ClassName=Sema_Driver Member=Component IC1 OP_AMP 358
+Added Member To Class: ClassName=Sema_Driver Member=Component IC2 OP_AMP 358
+Added Member To Class: ClassName=Sema_Driver Member=Component K1 Klema
+Added Member To Class: ClassName=Sema_Driver Member=Component K2 Klema
+Added Member To Class: ClassName=Sema_Driver Member=Component K3 Klema
+Added Member To Class: ClassName=Sema_Driver Member=Component K4 Klema
+Added Member To Class: ClassName=Sema_Driver Member=Component K5 Klema
+Added Member To Class: ClassName=Sema_Driver Member=Component OC1 4n35
+Added Member To Class: ClassName=Sema_Driver Member=Component OC2 4n35
+Added Member To Class: ClassName=Sema_Driver Member=Component Q1 BC547
+Added Member To Class: ClassName=Sema_Driver Member=Component Q2 BC357
+Added Member To Class: ClassName=Sema_Driver Member=Component Q3 IRF540N
+Added Member To Class: ClassName=Sema_Driver Member=Component Q4 BC547
+Added Member To Class: ClassName=Sema_Driver Member=Component Q5 BC357
+Added Member To Class: ClassName=Sema_Driver Member=Component Q6 IRF540N
+Added Member To Class: ClassName=Sema_Driver Member=Component R1 1K
+Added Member To Class: ClassName=Sema_Driver Member=Component R2 10k
+Added Member To Class: ClassName=Sema_Driver Member=Component R3 1K
+Added Member To Class: ClassName=Sema_Driver Member=Component R4 1K
+Added Member To Class: ClassName=Sema_Driver Member=Component R5 22
+Added Member To Class: ClassName=Sema_Driver Member=Component R6 1K
+Added Member To Class: ClassName=Sema_Driver Member=Component R7 10k
+Added Member To Class: ClassName=Sema_Driver Member=Component R8 1K
+Added Member To Class: ClassName=Sema_Driver Member=Component R9 1K
+Added Member To Class: ClassName=Sema_Driver Member=Component R10 22
+Added Member To Class: ClassName=Sema_Driver Member=Component R11 4k7
+Added Member To Class: ClassName=Sema_Driver Member=Component R12 4k7
+Added Member To Class: ClassName=Sema_Driver Member=Component R13 4k7
+Added Member To Class: ClassName=Sema_Driver Member=Component R14 4k7
+Added Member To Class: ClassName=Sema_Driver Member=Component R15 1K2
+Added Member To Class: ClassName=Sema_Driver Member=Component R16 4k22
+Added Member To Class: ClassName=Sema_Driver Member=Component R17 33K
+Added Member To Class: ClassName=Sema_Driver Member=Component R18 1K2
+Added Member To Class: ClassName=Sema_Driver Member=Component R19 1K2
+Added Member To Class: ClassName=Sema_Driver Member=Component R20 240K
+Added Member To Class: ClassName=Sema_Driver Member=Component R21 33K
+Added Member To Class: ClassName=Sema_Driver Member=Component R22 1K2
+Added Member To Class: ClassName=Sema_Driver Member=Component R23 0R
+Added Room: Name=Sema_Driver

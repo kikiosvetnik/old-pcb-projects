@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EAS_Power_24V_12V.PrjPcb]
+   Generated File[EAS_Power_24V_12V_PCB.GTL]
+   Generated File[EAS_Power_24V_12V_PCB.GBL]
+   Generated File[EAS_Power_24V_12V_PCB.GPB]
+   Generated File[EAS_Power_24V_12V_PCB.GPT]
+   Generated File[EAS_Power_24V_12V_PCB.GTO]
+   Generated File[EAS_Power_24V_12V_PCB.GTP]
+   Generated File[EAS_Power_24V_12V_PCB.GTS]
+   Generated File[EAS_Power_24V_12V_PCB.GBS]
+   Generated File[EAS_Power_24V_12V_PCB.GBP]
+   Generated File[EAS_Power_24V_12V_PCB.GBO]
+   Generated File[EAS_Power_24V_12V_PCB.GKO]
+   Generated File[EAS_Power_24V_12V_PCB.GM1]
+   Generated File[EAS_Power_24V_12V_PCB.GD1]
+   Generated File[EAS_Power_24V_12V_PCB.GG1]
+   Generated File[EAS_Power_24V_12V_PCB.RUL]
+   Generated File[EAS_Power_24V_12V_PCB.EXTREP]
+   Generated File[EAS_Power_24V_12V_PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 10:53:12 AM On 06-Sep-17

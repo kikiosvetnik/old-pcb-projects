@@ -1,0 +1,473 @@
+Added Component: Designator=C2(C1(150milsa))
+Added Component: Designator=C4(C1(150milsa))
+Added Component: Designator=C6(C1(150milsa))
+Added Component: Designator=C8(C1(150milsa))
+Added Component: Designator=C10(C1(150milsa))
+Added Component: Designator=C12(C1(150milsa))
+Added Component: Designator=C13(C1(150milsa))
+Added Component: Designator=C14(C1(150milsa))
+Added Component: Designator=C15(C1(150milsa))
+Added Component: Designator=C16(C2(elektrolit))
+Added Component: Designator=D1(D1(300milsa))
+Added Component: Designator=D2(D1(300milsa))
+Added Component: Designator=D3(D1(300milsa))
+Added Component: Designator=D4(D1(300milsa))
+Added Component: Designator=D5(D1(300milsa))
+Added Component: Designator=D6(D1(300milsa))
+Added Component: Designator=LED1(LED(3mm))
+Added Component: Designator=LED1(LED(3mm))
+Added Component: Designator=LED2(LED(3mm))
+Added Component: Designator=LED2(LED(3mm))
+Added Component: Designator=LED3(LED(3mm))
+Added Component: Designator=LED4(LED(3mm))
+Added Component: Designator=LED5(LED(3mm))
+Added Component: Designator=LED6(LED(3mm))
+Added Component: Designator=LED7(LED(3mm))
+Added Component: Designator=LED8(LED(3mm))
+Added Component: Designator=LED9(LED(3mm))
+Added Component: Designator=LED 10(LED(3mm))
+Added Component: Designator=R1(R1(200milsa))
+Added Component: Designator=R1(R1(200milsa))
+Added Component: Designator=R1(R1(200milsa))
+Added Component: Designator=R1(R1(200milsa))
+Added Component: Designator=R2(R1(200milsa))
+Added Component: Designator=R2(R1(200milsa))
+Added Component: Designator=R3(R1(200milsa))
+Added Component: Designator=R3(R1(200milsa))
+Added Component: Designator=R3(R1(200milsa))
+Added Component: Designator=R3(R1(200milsa))
+Added Component: Designator=R4(R1(200milsa))
+Added Component: Designator=R4(R1(200milsa))
+Added Component: Designator=R5(R1(200milsa))
+Added Component: Designator=R5(R1(200milsa))
+Added Component: Designator=R6(R1(200milsa))
+Added Component: Designator=R6(R1(200milsa))
+Added Component: Designator=R7(R1(200milsa))
+Added Component: Designator=R7(R1(200milsa))
+Added Component: Designator=R8(R1(200milsa))
+Added Component: Designator=R9(R1(200milsa))
+Added Component: Designator=R10(R1(200milsa))
+Added Component: Designator=R11(R1(200milsa))
+Added Component: Designator=R12(R1(200milsa))
+Added Component: Designator=R13(R1(200milsa))
+Added Component: Designator=R14(R1(200milsa))
+Added Component: Designator=R15(R1(200milsa))
+Added Component: Designator=R16(R1(200milsa))
+Added Component: Designator=R17(R1(200milsa))
+Added Component: Designator=R18(R1(200milsa))
+Added Component: Designator=R19(R1(200milsa))
+Added Component: Designator=R20(R1(200milsa))
+Added Component: Designator=R21(R1(200milsa))
+Added Component: Designator=R22(R1(200milsa))
+Added Component: Designator=R23(R1(200milsa))
+Added Component: Designator=R24(R1(200milsa))
+Added Component: Designator=R25(R1(200milsa))
+Added Component: Designator=R26(R1(200milsa))
+Added Component: Designator=R27(R1(200milsa))
+Added Component: Designator=R28(R1(200milsa))
+Added Component: Designator=R29(R1(200milsa))
+Added Component: Designator=R30(R1(200milsa))
+Added Component: Designator=R31(R1(200milsa))
+Added Component: Designator=R32(R1(200milsa))
+Added Component: Designator=R33(R1(200milsa))
+Added Component: Designator=R34(R1(200milsa))
+Added Component: Designator=S1(TO220)
+Added Component: Designator=S2(TO220)
+Added Component: Designator=S3(TO220)
+Added Component: Designator=STM32F407VG(STM32F407VG(ethernet))
+Added Component: Designator=U1(FT232RL)
+Added Pin To Net: NetName=3V3 OSI. Pin=C13-1
+Added Pin To Net: NetName=3V3 OSI. Pin=R4-2
+Added Pin To Net: NetName=3V3 OSI. Pin=R5-2
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-25
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-27
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-51
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-53
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-74
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-77
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-79
+Added Pin To Net: NetName=3V3 OSI. Pin=STM32F407VG-103
+Added Pin To Net: NetName=3V3 OSI. Pin=U1-4
+Added Net: Name=3V3 OSI.
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=3V3 Pin=D5-1
+Added Pin To Net: NetName=3V3 Pin=D6-2
+Added Pin To Net: NetName=3V3 Pin=S3-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V OSI. Pin=C14-1
+Added Pin To Net: NetName=5V OSI. Pin=C16-1
+Added Pin To Net: NetName=5V OSI. Pin=U1-20
+Added Net: Name=5V OSI.
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=5V Pin=D2-2
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Net: Name=5V
+Added Net: Name=9V OSI.
+Added Pin To Net: NetName=9V Pin=C8-2
+Added Pin To Net: NetName=9V Pin=C10-2
+Added Pin To Net: NetName=9V Pin=D3-1
+Added Pin To Net: NetName=9V Pin=D4-2
+Added Pin To Net: NetName=9V Pin=D5-2
+Added Pin To Net: NetName=9V Pin=R2-2
+Added Pin To Net: NetName=9V Pin=S2-2
+Added Pin To Net: NetName=9V Pin=S3-3
+Added Net: Name=9V
+Added Pin To Net: NetName=12V Pin=C2-2
+Added Pin To Net: NetName=12V Pin=C6-2
+Added Pin To Net: NetName=12V Pin=D1-2
+Added Pin To Net: NetName=12V Pin=D3-2
+Added Pin To Net: NetName=12V Pin=R5-2
+Added Pin To Net: NetName=12V Pin=R6-2
+Added Pin To Net: NetName=12V Pin=R15-2
+Added Pin To Net: NetName=12V Pin=R16-2
+Added Pin To Net: NetName=12V Pin=R22-1
+Added Pin To Net: NetName=12V Pin=S1-3
+Added Pin To Net: NetName=12V Pin=S2-3
+Added Net: Name=12V
+Added Pin To Net: NetName=A1 Pin=R9-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=R10-2
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=R20-2
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=R19-2
+Added Net: Name=A4
+Added Pin To Net: NetName=ADJ1 Pin=R1-1
+Added Pin To Net: NetName=ADJ1 Pin=R1-2
+Added Pin To Net: NetName=ADJ1 Pin=S1-1
+Added Net: Name=ADJ1
+Added Pin To Net: NetName=ADJ2 Pin=R2-1
+Added Pin To Net: NetName=ADJ2 Pin=S2-1
+Added Net: Name=ADJ2
+Added Pin To Net: NetName=ADJ3 Pin=R3-1
+Added Pin To Net: NetName=ADJ3 Pin=R3-2
+Added Pin To Net: NetName=ADJ3 Pin=S3-1
+Added Net: Name=ADJ3
+Added Net: Name=D1
+Added Net: Name=D2
+Added Net: Name=D3
+Added Net: Name=D4
+Added Net: Name=D5
+Added Net: Name=D6
+Added Net: Name=D7
+Added Net: Name=D8
+Added Net: Name=D9
+Added Pin To Net: NetName=DN Pin=STM32F407VG-32
+Added Net: Name=DN
+Added Pin To Net: NetName=DP Pin=STM32F407VG-31
+Added Net: Name=DP
+Added Pin To Net: NetName=F1 Pin=R5-1
+Added Net: Name=F1
+Added Pin To Net: NetName=F2 Pin=R7-1
+Added Net: Name=F2
+Added Pin To Net: NetName=F3 Pin=R6-1
+Added Net: Name=F3
+Added Pin To Net: NetName=F4 Pin=R8-1
+Added Net: Name=F4
+Added Pin To Net: NetName=F5 Pin=R15-1
+Added Net: Name=F5
+Added Pin To Net: NetName=F6 Pin=R17-1
+Added Net: Name=F6
+Added Pin To Net: NetName=F7 Pin=R16-1
+Added Net: Name=F7
+Added Pin To Net: NetName=F8 Pin=R18-1
+Added Net: Name=F8
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=LED5-2
+Added Pin To Net: NetName=GND Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=LED7-2
+Added Pin To Net: NetName=GND Pin=LED8-2
+Added Pin To Net: NetName=GND Pin=LED9-2
+Added Pin To Net: NetName=GND Pin=LED 10-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=STM32F407VG-26
+Added Pin To Net: NetName=GND Pin=STM32F407VG-28
+Added Pin To Net: NetName=GND Pin=STM32F407VG-52
+Added Pin To Net: NetName=GND Pin=STM32F407VG-54
+Added Pin To Net: NetName=GND Pin=STM32F407VG-78
+Added Pin To Net: NetName=GND Pin=STM32F407VG-80
+Added Pin To Net: NetName=GND Pin=STM32F407VG-104
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Net: Name=GND
+Added Net: Name=M1
+Added Net: Name=M2
+Added Net: Name=M3
+Added Net: Name=M4
+Added Net: Name=M5
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-17
+Added Net: Name=NetC15_1
+Added Net: Name=NetCON1_2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R4-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U1-23
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R5-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U1-22
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R8-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R17-2
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R18-2
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED 10-1
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetOC1_2 Pin=R1-1
+Added Net: Name=NetOC1_2
+Added Pin To Net: NetName=NetOC1_4 Pin=R2-2
+Added Net: Name=NetOC1_4
+Added Pin To Net: NetName=NetOC1_6 Pin=R3-2
+Added Net: Name=NetOC1_6
+Added Pin To Net: NetName=NetOC1_8 Pin=R4-2
+Added Net: Name=NetOC1_8
+Added Pin To Net: NetName=NetOC2_2 Pin=R11-2
+Added Net: Name=NetOC2_2
+Added Pin To Net: NetName=NetOC2_4 Pin=R12-2
+Added Net: Name=NetOC2_4
+Added Pin To Net: NetName=NetOC2_6 Pin=R13-2
+Added Net: Name=NetOC2_6
+Added Pin To Net: NetName=NetOC2_8 Pin=R14-2
+Added Net: Name=NetOC2_8
+Added Pin To Net: NetName=NetOC3_2 Pin=R21-1
+Added Net: Name=NetOC3_2
+Added Pin To Net: NetName=NetOC3_5 Pin=R22-2
+Added Net: Name=NetOC3_5
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=PA0 Pin=STM32F407VG-75
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA3 Pin=STM32F407VG-81
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=STM32F407VG-84
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=STM32F407VG-83
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=STM32F407VG-86
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA9 Pin=STM32F407VG-30
+Added Pin To Net: NetName=PA9 Pin=U1-5
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=STM32F407VG-29
+Added Pin To Net: NetName=PA10 Pin=U1-1
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=STM32F407VG-34
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=STM32F407VG-33
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA13 Pin=STM32F407VG-36
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=STM32F407VG-35
+Added Net: Name=PA14
+Added Pin To Net: NetName=PA15 Pin=STM32F407VG-38
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=STM32F407VG-90
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=STM32F407VG-89
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=STM32F407VG-92
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=STM32F407VG-49
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=STM32F407VG-50
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=STM32F407VG-56
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=STM32F407VG-55
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=STM32F407VG-58
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=STM32F407VG-59
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=STM32F407VG-60
+Added Net: Name=PB9
+Added Pin To Net: NetName=PC0 Pin=STM32F407VG-70
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC2 Pin=STM32F407VG-72
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=STM32F407VG-73
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC6 Pin=STM32F407VG-20
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=STM32F407VG-19
+Added Net: Name=PC7
+Added Pin To Net: NetName=PC8 Pin=STM32F407VG-22
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=STM32F407VG-21
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC13 Pin=STM32F407VG-68
+Added Net: Name=PC13
+Added Pin To Net: NetName=PD0 Pin=STM32F407VG-42
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=STM32F407VG-41
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=STM32F407VG-44
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=STM32F407VG-43
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=STM32F407VG-46
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=STM32F407VG-45
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=STM32F407VG-48
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=STM32F407VG-47
+Added Net: Name=PD7
+Added Pin To Net: NetName=PD8 Pin=STM32F407VG-12
+Added Net: Name=PD8
+Added Pin To Net: NetName=PD9 Pin=STM32F407VG-11
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=STM32F407VG-14
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=STM32F407VG-13
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=STM32F407VG-16
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=STM32F407VG-15
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD14 Pin=STM32F407VG-18
+Added Net: Name=PD14
+Added Pin To Net: NetName=PD15 Pin=STM32F407VG-17
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE0 Pin=STM32F407VG-61
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=STM32F407VG-62
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=STM32F407VG-63
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=STM32F407VG-64
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=STM32F407VG-65
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=STM32F407VG-66
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=STM32F407VG-67
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7 Pin=STM32F407VG-91
+Added Net: Name=PE7
+Added Pin To Net: NetName=PE8 Pin=STM32F407VG-94
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE9 Pin=STM32F407VG-93
+Added Net: Name=PE9
+Added Pin To Net: NetName=PE10 Pin=STM32F407VG-96
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE11 Pin=STM32F407VG-95
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE12 Pin=STM32F407VG-98
+Added Net: Name=PE12
+Added Pin To Net: NetName=PE13 Pin=STM32F407VG-97
+Added Net: Name=PE13
+Added Pin To Net: NetName=PE14 Pin=STM32F407VG-100
+Added Net: Name=PE14
+Added Pin To Net: NetName=PE15 Pin=STM32F407VG-99
+Added Net: Name=PE15
+Added Pin To Net: NetName=RST# Pin=R6-2
+Added Pin To Net: NetName=RST# Pin=R7-1
+Added Pin To Net: NetName=RST# Pin=U1-19
+Added Net: Name=RST#
+Added Pin To Net: NetName=RST Pin=STM32F407VG-69
+Added Net: Name=RST
+Added Pin To Net: NetName=USBDM Pin=U1-16
+Added Net: Name=USBDM
+Added Pin To Net: NetName=USBDP Pin=U1-15
+Added Net: Name=USBDP
+Added Pin To Net: NetName=X1 Pin=R23-2
+Added Net: Name=X1
+Added Pin To Net: NetName=X2 Pin=R24-2
+Added Net: Name=X2
+Added Pin To Net: NetName=X3 Pin=R25-2
+Added Net: Name=X3
+Added Pin To Net: NetName=X4 Pin=R26-2
+Added Net: Name=X4
+Added Pin To Net: NetName=X5 Pin=R27-2
+Added Net: Name=X5
+Added Pin To Net: NetName=X6 Pin=R28-2
+Added Net: Name=X6
+Added Pin To Net: NetName=X7 Pin=R29-2
+Added Net: Name=X7
+Added Net: Name=X8
+Added Net: Name=X9
+Added Net: Name=X10
+Added Net: Name=X11
+Added Net: Name=X12
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

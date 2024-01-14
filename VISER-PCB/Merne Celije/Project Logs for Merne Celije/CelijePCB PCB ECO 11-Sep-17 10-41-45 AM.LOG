@@ -1,0 +1,17 @@
+Added Component: Designator=C3(C1(Ceramic)Small)
+Added Component: Designator=C4(C1(Ceramic)Small)
+Added Component: Designator=C5(C1(Ceramic)Small)
+Added Component: Designator=C6(C1(Ceramic)Small)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+12 VCC Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=-12 VCC Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12 VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=-12 VCC Pin=C6-2
+Added Member To Class: ClassName=Sema Member=Component C3 100n
+Added Member To Class: ClassName=Sema Member=Component C4 100n
+Added Member To Class: ClassName=Sema Member=Component C5 100n
+Added Member To Class: ClassName=Sema Member=Component C6 100n
+Added Room: Name=Sema
