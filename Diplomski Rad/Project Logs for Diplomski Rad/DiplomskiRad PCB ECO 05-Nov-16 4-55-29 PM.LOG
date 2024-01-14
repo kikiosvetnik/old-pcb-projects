@@ -1,0 +1,5 @@
+Change Component Comment : Designator=1n4148 Old Comment=D1 New Comment=1n4148
+Change Component Designator: OldDesignator=1n4148 NewDesignator=D1
+Change Net Name : Old Net Name=Net1n4148_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=Net1n4148_2 New Net Name=NetD1_2
+Added Room: Name=DiplomskiRad

@@ -1,0 +1,5 @@
+Added Component: Designator=R36(R1(300milsa))
+Added Pin To Net: NetName=NetIC1_5 Pin=R36-1
+Added Pin To Net: NetName=+24V Pin=R36-2
+Added Member To Class: ClassName=DiplomskiRad Member=Component R36 22k
+Added Room: Name=DiplomskiRad

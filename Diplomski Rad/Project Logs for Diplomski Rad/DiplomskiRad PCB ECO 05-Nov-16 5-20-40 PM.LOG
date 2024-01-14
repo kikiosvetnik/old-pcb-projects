@@ -1,0 +1,26 @@
+Added Component: Designator=MCU(Nucleo411)
+Added Pin To Net: NetName=INTA Pin=MCU-1
+Added Pin To Net: NetName=TAS Pin=MCU-2
+Added Pin To Net: NetName=INTB Pin=MCU-3
+Added Pin To Net: NetName=GND Pin=MCU-8
+Added Pin To Net: NetName=+5 Pin=MCU-18
+Added Pin To Net: NetName=GND Pin=MCU-19
+Added Pin To Net: NetName=GND Pin=MCU-20
+Added Pin To Net: NetName=GND Pin=MCU-22
+Added Pin To Net: NetName=EN Pin=MCU-32
+Added Pin To Net: NetName=RS Pin=MCU-34
+Added Pin To Net: NetName=D6 Pin=MCU-35
+Added Pin To Net: NetName=D5 Pin=MCU-36
+Added Pin To Net: NetName=D4 Pin=MCU-38
+Added Pin To Net: NetName=GND Pin=MCU-47
+Added Pin To Net: NetName=P1 Pin=MCU-60
+Added Pin To Net: NetName=P2 Pin=MCU-62
+Added Pin To Net: NetName=PWR Pin=MCU-63
+Added Pin To Net: NetName=P3 Pin=MCU-64
+Added Pin To Net: NetName=P4 Pin=MCU-66
+Added Pin To Net: NetName=PUN Pin=MCU-68
+Added Pin To Net: NetName=GND Pin=MCU-77
+Added Pin To Net: NetName=GND Pin=MCU-78
+Added Pin To Net: NetName=GND Pin=MCU-79
+Added Pin To Net: NetName=GND Pin=MCU-80
+Added Member To Class: ClassName=DiplomskiRad Member=Component MCU 

@@ -1,0 +1,30 @@
+Added Component: Designator=Q3(TO-92)
+Added Component: Designator=Q4(TO-92)
+Added Component: Designator=Q5(TO-92)
+Added Component: Designator=Q6(TO-92)
+Added Component: Designator=Q7(TO-92)
+Added Component: Designator=Q8(TO-92)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q3 BC546
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q4 BC546
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q5 BC546
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q6 BC546
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q7 BC546
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q8 BC546

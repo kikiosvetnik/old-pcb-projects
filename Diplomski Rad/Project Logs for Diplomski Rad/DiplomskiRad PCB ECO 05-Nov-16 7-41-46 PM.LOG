@@ -1,0 +1,6 @@
+Added Component: Designator=Q3(TO-92)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Member To Class: ClassName=DiplomskiRad Member=Component Q3 BC546
+Added Room: Name=DiplomskiRad
