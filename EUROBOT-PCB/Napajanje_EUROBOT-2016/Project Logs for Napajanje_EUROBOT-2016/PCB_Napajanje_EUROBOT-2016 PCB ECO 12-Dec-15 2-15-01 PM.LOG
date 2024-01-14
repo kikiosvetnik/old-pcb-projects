@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetFuse1_1 Pin=Fuse1-1
+Added Pin To Net: NetName=NetFuse1_1 Pin=Q1-2
+Added Net: Name=NetFuse1_1
+Added Room: Name=Sema_Napajanje_EUROBOT-2016

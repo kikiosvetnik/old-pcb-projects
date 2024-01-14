@@ -1,0 +1,5 @@
+Added Component: Designator=KL1(Klema3)
+Added Pin To Net: NetName=GND Pin=KL1-1
+Added Pin To Net: NetName=3V3 Pin=KL1-2
+Added Pin To Net: NetName=5V Pin=KL1-3
+Added Member To Class: ClassName=ShemaMiniM4 Member=Component KL1 Klema3

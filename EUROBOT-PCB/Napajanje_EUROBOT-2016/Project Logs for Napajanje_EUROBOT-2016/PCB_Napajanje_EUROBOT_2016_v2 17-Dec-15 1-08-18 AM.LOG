@@ -1,0 +1,9 @@
+Added Component: Designator=D3(D1(300milsa))
+Added Component: Designator=R5(R1(300milsa))
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=5-9V Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=R5-1
+Added Pin To Net: NetName=5-9V Pin=R5-2
+Added Member To Class: ClassName=Sema_Napajanje_EUROBOT-2016 Member=Component D3 1n4007
+Added Member To Class: ClassName=Sema_Napajanje_EUROBOT-2016 Member=Component R5 220
+Added Room: Name=Sema_Napajanje_EUROBOT-2016

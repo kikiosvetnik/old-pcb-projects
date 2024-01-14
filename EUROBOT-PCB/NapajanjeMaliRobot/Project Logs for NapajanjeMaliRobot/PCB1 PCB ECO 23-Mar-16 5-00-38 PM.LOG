@@ -1,0 +1,5 @@
+Added Component: Designator=Klema3(Klema)
+Added Pin To Net: NetName=GND Pin=Klema3-1
+Added Pin To Net: NetName=NetC2_1 Pin=Klema3-2
+Added Member To Class: ClassName=Sheet1 Member=Component Klema3 H-Bridge
+Added Room: Name=Sheet1

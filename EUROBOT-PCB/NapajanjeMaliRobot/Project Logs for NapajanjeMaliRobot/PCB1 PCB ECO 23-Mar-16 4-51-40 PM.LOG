@@ -1,0 +1,10 @@
+Added Component: Designator=LD2(LED(3mm))
+Added Component: Designator=R5(R1(300milsa))
+Added Pin To Net: NetName=NetC3_1 Pin=LD2-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetLD2_2 Pin=LD2-2
+Added Pin To Net: NetName=NetLD2_2 Pin=R5-2
+Added Net: Name=NetLD2_2
+Added Member To Class: ClassName=Sheet1 Member=Component LD2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component R5 R1
+Added Room: Name=Sheet1

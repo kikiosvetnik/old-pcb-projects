@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Napajanje_EUROBOT-2016.PrjPcb]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.GBL]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.GPB]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.GBS]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.GBP]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.GKO]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.GM1]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.RUL]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.EXTREP]
+   Generated File[PCB_Napajanje_EUROBOT_2016_v2.0.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 3:45:05 PM On 16-Jan-17

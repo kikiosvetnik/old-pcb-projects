@@ -1,0 +1,12 @@
+Added Component: Designator=D2(D2(TO220))
+Added Component: Designator=D4(D2(TO220))
+Added Component: Designator=D6(D2(TO220))
+Added Pin To Net: NetName=12V Pin=D2-1
+Added Pin To Net: NetName=NetC4_1 Pin=D2-2
+Added Pin To Net: NetName=8V Pin=D4-1
+Added Pin To Net: NetName=NetC7_1 Pin=D4-2
+Added Pin To Net: NetName=8V Pin=D6-1
+Added Pin To Net: NetName=NetC10_1 Pin=D6-2
+Added Member To Class: ClassName=Sema_Napajanje_EUROBOT-2016 Member=Component D2 MBR1045
+Added Member To Class: ClassName=Sema_Napajanje_EUROBOT-2016 Member=Component D4 MBR1045
+Added Member To Class: ClassName=Sema_Napajanje_EUROBOT-2016 Member=Component D6 MBR1045

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BAT Pin=Q1-2
+Removed Pin From Net: NetName=+15V Pin=Q1-3
+Removed Pin From Net: NetName=BAT Pin=Q12-2
+Removed Pin From Net: NetName=+15V-RPI Pin=Q12-3
+Added Pin To Net: NetName=+15V Pin=Q1-2
+Added Pin To Net: NetName=BAT Pin=Q1-3
+Added Pin To Net: NetName=+15V-RPI Pin=Q12-2
+Added Pin To Net: NetName=BAT Pin=Q12-3
+Added Room: Name=Shema

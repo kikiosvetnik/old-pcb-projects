@@ -1,0 +1,6 @@
+Added Component: Designator=IC2(TO220)
+Added Pin To Net: NetName=NetD3_1 Pin=IC2-1
+Added Pin To Net: NetName=5-9V Pin=IC2-2
+Added Pin To Net: NetName=NetC5_1 Pin=IC2-3
+Added Member To Class: ClassName=Sema_Napajanje_EUROBOT-2016 Member=Component IC2 LM317
+Added Room: Name=Sema_Napajanje_EUROBOT-2016

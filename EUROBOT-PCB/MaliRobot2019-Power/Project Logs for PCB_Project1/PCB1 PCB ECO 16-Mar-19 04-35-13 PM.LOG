@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Change Component Designator: OldDesignator=X9 NewDesignator=X5
+Change Component Designator: OldDesignator=X10 NewDesignator=X6
+Added Component: Designator=X2(KLEMA8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X4(KLEMA8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Lin Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=5V Lin Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=5V Lin Pin=X2-5
+Added Pin To Net: NetName=GND Pin=X2-6
+Added Pin To Net: NetName=5V Lin Pin=X2-7
+Added Pin To Net: NetName=GND Pin=X2-8
+Added Pin To Net: NetName=5V Switch Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=5V Switch Pin=X4-3
+Added Pin To Net: NetName=GND Pin=X4-4
+Added Pin To Net: NetName=5V Switch Pin=X4-5
+Added Pin To Net: NetName=GND Pin=X4-6
+Added Pin To Net: NetName=5V Switch Pin=X4-7
+Added Pin To Net: NetName=GND Pin=X4-8
+Added Member To Class: ClassName=Sheet1 Member=Component X2 Klema8
+Added Member To Class: ClassName=Sheet1 Member=Component X4 Klema8
+Added Member To Class: ClassName=Sheet1 Member=Component X5 Klema3
+Added Member To Class: ClassName=Sheet1 Member=Component X6 Klema3
+Added Room: Name=Sheet1
