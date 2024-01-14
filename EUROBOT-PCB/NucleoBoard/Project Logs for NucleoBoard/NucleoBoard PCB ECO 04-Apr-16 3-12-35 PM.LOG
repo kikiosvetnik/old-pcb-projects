@@ -1,0 +1,63 @@
+Added Component: Designator=*(Header1x4)
+Added Component: Designator=C1(C1(ceramic))
+Added Component: Designator=H1(Header1x5)
+Added Component: Designator=H2(Header1x4)
+Added Component: Designator=H3(Header1x4)
+Added Component: Designator=H4(Header1x2)
+Added Component: Designator=Nucleo1(Nucleo411)
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=H2-3
+Added Pin To Net: NetName=5V Pin=H3-3
+Added Pin To Net: NetName=5V Pin=H4-1
+Added Pin To Net: NetName=5V Pin=Nucleo1-18
+Added Net: Name=5V
+Added Pin To Net: NetName=DIR1 Pin=H1-1
+Added Pin To Net: NetName=DIR1 Pin=Nucleo1-65
+Added Net: Name=DIR1
+Added Pin To Net: NetName=DIR2 Pin=H1-3
+Added Pin To Net: NetName=DIR2 Pin=Nucleo1-71
+Added Net: Name=DIR2
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=H1-5
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=GND Pin=Nucleo1-20
+Added Pin To Net: NetName=GND Pin=Nucleo1-22
+Added Pin To Net: NetName=GND Pin=Nucleo1-47
+Added Pin To Net: NetName=GND Pin=Nucleo1-58
+Added Pin To Net: NetName=GND Pin=Nucleo1-77
+Added Pin To Net: NetName=GND Pin=Nucleo1-78
+Added Pin To Net: NetName=GND Pin=Nucleo1-79
+Added Pin To Net: NetName=GND Pin=Nucleo1-80
+Added Net: Name=GND
+Added Pin To Net: NetName=HELP1 Pin=H2-2
+Added Pin To Net: NetName=HELP1 Pin=Nucleo1-36
+Added Net: Name=HELP1
+Added Pin To Net: NetName=HELP2 Pin=H3-2
+Added Pin To Net: NetName=HELP2 Pin=Nucleo1-32
+Added Net: Name=HELP2
+Added Pin To Net: NetName=INT1 Pin=H2-1
+Added Pin To Net: NetName=INT1 Pin=Nucleo1-30
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT2 Pin=H3-1
+Added Pin To Net: NetName=INT2 Pin=Nucleo1-38
+Added Net: Name=INT2
+Added Pin To Net: NetName=PIN1 Pin=*-1
+Added Pin To Net: NetName=PIN1 Pin=Nucleo1-57
+Added Net: Name=PIN1
+Added Pin To Net: NetName=PIN2 Pin=*-2
+Added Pin To Net: NetName=PIN2 Pin=Nucleo1-59
+Added Net: Name=PIN2
+Added Pin To Net: NetName=PIN3 Pin=*-3
+Added Pin To Net: NetName=PIN3 Pin=Nucleo1-61
+Added Net: Name=PIN3
+Added Pin To Net: NetName=PWM1 Pin=H1-2
+Added Pin To Net: NetName=PWM1 Pin=Nucleo1-67
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=H1-4
+Added Pin To Net: NetName=PWM2 Pin=Nucleo1-69
+Added Net: Name=PWM2
+Added Class: Name=NucleoBoard
+Added Room: Name=NucleoBoard

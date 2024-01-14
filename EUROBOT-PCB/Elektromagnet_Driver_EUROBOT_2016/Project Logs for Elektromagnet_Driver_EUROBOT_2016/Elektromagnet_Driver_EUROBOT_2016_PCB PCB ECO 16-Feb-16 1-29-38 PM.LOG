@@ -1,0 +1,62 @@
+Added Component: Designator=C1(C2(elektrolit))
+Added Component: Designator=D1(D2(TO220))
+Added Component: Designator=D2(D1(300milsa))
+Added Component: Designator=Kalem(Klema)
+Added Component: Designator=Napajanje(Klema)
+Added Component: Designator=PWM(Header1x2)
+Added Component: Designator=R1(R1(300milsa))
+Added Component: Designator=R2(R1(300milsa))
+Added Component: Designator=R3(R1(300milsa))
+Added Component: Designator=R4(R1(300milsa))
+Added Component: Designator=R5(R1(300milsa))
+Added Component: Designator=R6(R1(2W))
+Added Component: Designator=T1(BC327)
+Added Component: Designator=T2(BC327)
+Added Component: Designator=T4(FET)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=Napajanje-2
+Added Pin To Net: NetName=GND Pin=PWM-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=T2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=T1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Kalem-1
+Added Pin To Net: NetName=NetD1_1 Pin=T4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=Kalem-2
+Added Pin To Net: NetName=NetD1_2 Pin=Napajanje-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetPWM_1 Pin=PWM-1
+Added Pin To Net: NetName=NetPWM_1 Pin=R2-1
+Added Net: Name=NetPWM_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=T2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=T2-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=T1-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=T4-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-2
+Added Pin To Net: NetName=NetR5_2 Pin=T4-3
+Added Net: Name=NetR5_2
+Added Class: Name=Elektromagnet_Driver_EUROBOT_2016_SCH
+Added Room: Name=Elektromagnet_Driver_EUROBOT_2016_SCH

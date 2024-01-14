@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DIR2 Pin=H1-3
+Removed Pin From Net: NetName=PWM2 Pin=H1-4
+Added Pin To Net: NetName=PWM2 Pin=H1-3
+Added Pin To Net: NetName=DIR2 Pin=H1-4
+Added Room: Name=NucleoBoard

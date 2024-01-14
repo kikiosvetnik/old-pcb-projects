@@ -1,0 +1,122 @@
+Added Component: Designator=H1(Header1x4)
+Added Component: Designator=H2(Header1x4)
+Added Component: Designator=H3(Header1x5)
+Added Component: Designator=H4(Header 1x3)
+Added Component: Designator=H5(Header 1x3)
+Added Component: Designator=H6(Header 1x3)
+Added Component: Designator=H7(Header 1x3)
+Added Component: Designator=H8(Header 1x3)
+Added Component: Designator=H9(Header 1x3)
+Added Component: Designator=H10(Header 1x3)
+Added Component: Designator=H11(Header 1x3)
+Added Component: Designator=H12(Header 1x3)
+Added Component: Designator=H13(Header 1x3)
+Added Component: Designator=H14(Header1x2)
+Added Component: Designator=H15(Header1x2)
+Added Component: Designator=H16(Header1x2)
+Added Component: Designator=IC1(Nucleo411)
+Added Pin To Net: NetName=5V-S Pin=H4-2
+Added Pin To Net: NetName=5V-S Pin=H5-2
+Added Pin To Net: NetName=5V-S Pin=H6-2
+Added Pin To Net: NetName=5V-S Pin=H7-2
+Added Pin To Net: NetName=5V-S Pin=H16-2
+Added Net: Name=5V-S
+Added Pin To Net: NetName=5V Pin=H1-3
+Added Pin To Net: NetName=5V Pin=H2-3
+Added Pin To Net: NetName=5V Pin=H8-2
+Added Pin To Net: NetName=5V Pin=H9-2
+Added Pin To Net: NetName=5V Pin=H10-2
+Added Pin To Net: NetName=5V Pin=H11-2
+Added Pin To Net: NetName=5V Pin=H12-2
+Added Pin To Net: NetName=5V Pin=H15-2
+Added Pin To Net: NetName=5V Pin=IC1-18
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-5
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H10-1
+Added Pin To Net: NetName=GND Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H12-1
+Added Pin To Net: NetName=GND Pin=H13-1
+Added Pin To Net: NetName=GND Pin=H14-1
+Added Pin To Net: NetName=GND Pin=H15-1
+Added Pin To Net: NetName=GND Pin=H16-1
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-19
+Added Pin To Net: NetName=GND Pin=IC1-20
+Added Pin To Net: NetName=GND Pin=IC1-22
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-58
+Added Pin To Net: NetName=GND Pin=IC1-77
+Added Pin To Net: NetName=GND Pin=IC1-78
+Added Pin To Net: NetName=GND Pin=IC1-79
+Added Pin To Net: NetName=GND Pin=IC1-80
+Added Net: Name=GND
+Added Pin To Net: NetName=PA1 Pin=H2-2
+Added Pin To Net: NetName=PA1 Pin=IC1-30
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=H8-3
+Added Pin To Net: NetName=PA2 Pin=IC1-73
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=H9-3
+Added Pin To Net: NetName=PA3 Pin=IC1-75
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=H1-2
+Added Pin To Net: NetName=PA4 Pin=IC1-32
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA6 Pin=H10-3
+Added Pin To Net: NetName=PA6 Pin=IC1-51
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=H11-3
+Added Pin To Net: NetName=PA7 Pin=IC1-53
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA11 Pin=H13-3
+Added Pin To Net: NetName=PA11 Pin=IC1-50
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=H13-2
+Added Pin To Net: NetName=PA12 Pin=IC1-52
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA13 Pin=H12-3
+Added Pin To Net: NetName=PA13 Pin=IC1-13
+Added Net: Name=PA13
+Added Pin To Net: NetName=PB3 Pin=H3-4
+Added Pin To Net: NetName=PB3 Pin=IC1-69
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=H3-2
+Added Pin To Net: NetName=PB4 Pin=IC1-65
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=H3-3
+Added Pin To Net: NetName=PB5 Pin=IC1-67
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=H4-3
+Added Pin To Net: NetName=PB6 Pin=IC1-55
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=H5-3
+Added Pin To Net: NetName=PB7 Pin=IC1-21
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=H6-3
+Added Pin To Net: NetName=PB8 Pin=IC1-41
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=H7-3
+Added Pin To Net: NetName=PB9 Pin=IC1-43
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=H3-1
+Added Pin To Net: NetName=PB10 Pin=IC1-63
+Added Net: Name=PB10
+Added Pin To Net: NetName=PC0 Pin=H1-1
+Added Pin To Net: NetName=PC0 Pin=IC1-38
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=H2-1
+Added Pin To Net: NetName=PC1 Pin=IC1-36
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC4 Pin=H14-2
+Added Pin To Net: NetName=PC4 Pin=IC1-72
+Added Net: Name=PC4
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,17 @@
+Added Component: Designator=*(SIP6)
+Added Component: Designator=*(SIP4)
+Added Component: Designator=*(SIP4)
+Added Component: Designator=*(SIP6)
+Added Component: Designator=*(klema)
+Added Component: Designator=k?(klema)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=k?-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=k?-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-4
+Added Net: Name=Net*_3
+Added Class: Name=MotorsAdapter
+Added Room: Name=MotorsAdapter

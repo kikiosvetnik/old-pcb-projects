@@ -1,0 +1,53 @@
+Added Component: Designator=C1(C1(ceramic))
+Added Component: Designator=H1(Header1x4)
+Added Component: Designator=H2(Header1x4)
+Added Component: Designator=H3(Header 1x3)
+Added Component: Designator=H4(Header 1x3)
+Added Component: Designator=H5(Header1x2)
+Added Component: Designator=IC1(Arduino Nano)
+Added Component: Designator=LD1(LED SMD 3528)
+Added Component: Designator=R1(R 0805)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=GND Pin=IC1-14
+Added Pin To Net: NetName=GND Pin=IC1-19
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=IC1-23
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=IC1-24
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=IC1-25
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=NetH2_2 Pin=IC1-20
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=IC1-21
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=NetH3_1 Pin=IC1-4
+Added Net: Name=NetH3_1
+Added Pin To Net: NetName=NetH4_3 Pin=H4-3
+Added Pin To Net: NetName=NetH4_3 Pin=IC1-27
+Added Net: Name=NetH4_3
+Added Pin To Net: NetName=NetLD1_2 Pin=LD1-2
+Added Pin To Net: NetName=NetLD1_2 Pin=R1-2
+Added Net: Name=NetLD1_2
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=H2-4
+Added Pin To Net: NetName=VCC Pin=H3-3
+Added Pin To Net: NetName=VCC Pin=H4-2
+Added Pin To Net: NetName=VCC Pin=H5-1
+Added Pin To Net: NetName=VCC Pin=IC1-12
+Added Pin To Net: NetName=VCC Pin=LD1-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

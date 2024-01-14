@@ -1,0 +1,25 @@
+Added Component: Designator=H17(Header1x2)
+Added Component: Designator=H18(Header1x2)
+Added Component: Designator=H19(Header1x2)
+Added Component: Designator=H20(Header1x2)
+Added Pin To Net: NetName=5V Pin=H17-1
+Added Pin To Net: NetName=5V Pin=H18-1
+Added Pin To Net: NetName=5V Pin=H19-1
+Added Pin To Net: NetName=5V Pin=H20-1
+Added Pin To Net: NetName=PC14 Pin=H17-2
+Added Pin To Net: NetName=PC14 Pin=IC1-25
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=H18-2
+Added Pin To Net: NetName=PC15 Pin=IC1-27
+Added Net: Name=PC15
+Added Pin To Net: NetName=PH0 Pin=H19-2
+Added Pin To Net: NetName=PH0 Pin=IC1-29
+Added Net: Name=PH0
+Added Pin To Net: NetName=PH1 Pin=H20-2
+Added Pin To Net: NetName=PH1 Pin=IC1-31
+Added Net: Name=PH1
+Added Member To Class: ClassName=Sheet1 Member=Component H17 Takt1
+Added Member To Class: ClassName=Sheet1 Member=Component H18 Takt2
+Added Member To Class: ClassName=Sheet1 Member=Component H19 Takt3
+Added Member To Class: ClassName=Sheet1 Member=Component H20 Takt4
+Added Room: Name=Sheet1

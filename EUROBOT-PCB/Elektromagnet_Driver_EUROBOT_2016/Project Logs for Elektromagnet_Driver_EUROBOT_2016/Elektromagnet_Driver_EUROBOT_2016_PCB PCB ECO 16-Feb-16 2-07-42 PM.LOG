@@ -1,0 +1,13 @@
+Added Component: Designator=*(LED(3mm))
+Added Component: Designator=R7(R1(300milsa))
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=PWM-1
+Added Pin To Net: NetName=Net*_1 Pin=R2-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R7-1
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=Elektromagnet_Driver_EUROBOT_2016_SCH Member=Component * LED
+Added Member To Class: ClassName=Elektromagnet_Driver_EUROBOT_2016_SCH Member=Component R7 240
+Added Room: Name=Elektromagnet_Driver_EUROBOT_2016_SCH
